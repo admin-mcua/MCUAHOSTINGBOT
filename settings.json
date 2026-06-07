@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "AFKBOT67",
     "password": "",
     "type": "offline"
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "67",
+        "Be part of Minecraft University Academy - it is a start-up college and I need your help to get us accredited to CHED and recognize as real university",
+        "I miss you"
       ]
     },
     "chat-log": true,
