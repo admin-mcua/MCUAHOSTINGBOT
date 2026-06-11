@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "inanga.aternos.host",
+    "ip": "McuaSMP.aternos.host",
     "port": 48106,
     "version": "",
     "try-creative": false
