@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "McuaSMP.aternos.me",
+    "ip": "marblefish.aternos.host",
     "port": 48106,
     "version": "",
     "try-creative": false
