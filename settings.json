@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "betta.aternos.host",
+    "ip": "mcuasmp.aternos.me",
     "port": 48106,
     "version": "",
     "try-creative": false
